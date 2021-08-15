@@ -5,6 +5,8 @@ include_in_header: true
 ---
 
 # Changelog
+# **Version 2.2.4**
+- Nothing to report here, just general maintenance update. 
 # **Version 2.2.3**
 - Group reordering is now more reliable.
 - UI enhancements and other minor bug fixes.
